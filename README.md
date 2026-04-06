@@ -51,6 +51,7 @@
 | Project                | Description                                     |
 | ---------------------- | ----------------------------------------------- |
 | PM2.5 Prediction Model | Machine Learning model for pollution prediction |
+| Social Shield          | A Fake Account Detector Platform                |
 
 
 ---
