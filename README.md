@@ -1,9 +1,116 @@
-# 💫 About Me:
-Hi there! I'm a passionate Computer Science student and aspiring AI & Software Developer who loves building practical projects using modern technologies. I enjoy exploring areas like Artificial Intelligence, Data Analytics, Cybersecurity, and Web Development, and continuously work on improving my technical and problem-solving skills.<br><br>I have recently completed industry simulations from Tata on GenAI Powered Data Analytics and Cybersecurity (IAM), where I gained hands-on experience in data analysis, predictive modeling, and security best practices. I like turning ideas into real-world solutions through coding and experimentation.<br><br>Currently, I am focused on:<br><br>🤖 Building AI/ML and chatbot-based applications<br>🌐 Developing web projects using modern frameworks<br>📊 Working on data analytics and predictive models<br>🔐 Learning cybersecurity and identity management concepts<br>🚀 Improving my coding skills and contributing to GitHub projects<br><br>I believe in continuous learning, consistency, and building projects that solve real problems.<br><br>🛠️ Skills & Technologies<br>Languages: Java, Python, JavaScript, HTML, CSS<br>Tools: VS Code, Git, GitHub, IBM Watsonx.ai<br>Technologies: Machine Learning, Data Analytics, Web Development, APIs<br>Concepts: OOP, Multithreading, Cybersecurity Basics, AI Models<br>🎯 Career Goal<br><br>My goal is to become a skilled Software Engineer / AI Engineer and contribute to innovative technology solutions that make a positive impact.
+<div align="center">
 
+<img src="https://user-images.githubusercontent.com/74038190/213910842-5a320d6b-e48f-4d41-a901-0e6a357e8dae.gif" width="250"/>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/mayank_sahu_798?igsh=NGZxNjd6cDVsOWp2) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/mayank-sahu-27a971343) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mayanksahu2136gmail.com) 
+# 🚀 Hi, I'm Mayank Sahu
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Alibaba Cloud](https://img.shields.io/badge/AlibabaCloud-%23FF6701.svg?style=for-the-badge&logo=alibabacloud&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![P5js](https://img.shields.io/badge/p5.js-ED225D?style=for-the-badge&logo=p5.js&logoColor=FFFFFF) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
+### 💻 AI Developer | Software Engineer | Problem Solver
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&width=700&lines=Building+Real+World+Projects;AI+%7C+Machine+Learning+%7C+Web+Development;Cybersecurity+Learner;Always+Learning+New+Things" />
+
+<br>
+
+<img src="https://forthebadge.com/images/badges/built-with-love.svg"/>
+<img src="https://forthebadge.com/images/badges/open-source.svg"/>
+<img src="https://forthebadge.com/images/badges/made-with-markdown.svg"/>
+
+</div>
+
+---
+
+# 👨‍💻 About Me
+
+* 🎓 Computer Science Student
+* 🤖 Interested in Artificial Intelligence
+* 📊 Building Machine Learning Projects
+* 🌐 Developing Web Applications
+* 🔐 Learning Cybersecurity
+* 🚀 Creating Real-World Projects
+
+---
+
+# 🧰 Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,react,nodejs,mysql,mongodb,git,github,vscode,linux" />
+
+</div>
+
+---
+
+# 🚀 Projects
+
+| Project                | Description                                     |
+| ---------------------- | ----------------------------------------------- |
+| PM2.5 Prediction Model | Machine Learning model for pollution prediction |
+| AI Chatbot             | Custom chatbot using APIs                       |
+| E-commerce Website     | Stationery website project                      |
+| Birthday Website       | Interactive animated website                    |
+| Govt Schemes Chatbot   | LLM-based assistant                             |
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=mayanksahu2136&show_icons=true&theme=tokyonight" width="48%"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mayanksahu2136&theme=tokyonight" width="48%"/>
+
+</div>
+
+---
+
+# 🧠 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mayanksahu2136&theme=tokyo-night"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/mayanksahu2136/mayanksahu2136/output/github-contribution-grid-snake.svg" />
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="mailto:mayanksahu2136@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="50"/>
+</a>
+
+<a href="https://linkedin.com/in/mayank-sahu-27a971343">
+<img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
+</a>
+
+<a href="https://www.instagram.com/mayank_sahu_798">
+<img src="https://skillicons.dev/icons?i=instagram" width="50"/>
+</a>
+
+<a href="https://github.com/mayanksahu2136">
+<img src="https://skillicons.dev/icons?i=github" width="50"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" width="500"/>
+
+### ⚡ Keep Learning • Keep Building • Keep Growing
+
+</div>
