@@ -1,4 +1,3 @@
-<img src="https://komarev.com/ghpvc/?username=mayanksahu2136&label=Profile%20Views&color=blue&style=for-the-badge" />
 <div align="center">
 
 <img src="https://user-images.githubusercontent.com/74038190/213910842-5a320d6b-e48f-4d41-a901-0e6a357e8dae.gif" width="250"/>
@@ -18,9 +17,9 @@
 
 <br>
 
-<img src="https://forthebadge.com/images/badges/built-with-love.svg"/>
-<img src="https://forthebadge.com/images/badges/open-source.svg"/>
-<img src="https://forthebadge.com/images/badges/made-with-markdown.svg"/>
+![Profile Views](https://komarev.com/ghpvc/?username=mayanksahu2136&style=for-the-badge)
+![GitHub followers](https://img.shields.io/github/followers/mayanksahu2136?style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/mayanksahu2136?style=for-the-badge)
 
 </div>
 
@@ -77,12 +76,10 @@
 ---
 
 
-# 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/mayanksahu2136/mayanksahu2136/output/github-contribution-grid-snake-dark.svg" />
-
+  <img src="https://raw.githubusercontent.com/mayanksahu2136/mayanksahu2136/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
