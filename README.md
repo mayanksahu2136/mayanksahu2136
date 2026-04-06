@@ -1,3 +1,4 @@
+<img src="https://komarev.com/ghpvc/?username=mayanksahu2136&label=Profile%20Views&color=blue&style=for-the-badge" />
 <div align="center">
 
 <img src="https://user-images.githubusercontent.com/74038190/213910842-5a320d6b-e48f-4d41-a901-0e6a357e8dae.gif" width="250"/>
@@ -7,6 +8,13 @@
 ### 💻 AI Developer | Software Engineer | Problem Solver
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&width=700&lines=Building+Real+World+Projects;AI+%7C+Machine+Learning+%7C+Web+Development;Cybersecurity+Learner;Always+Learning+New+Things" />
+
+
+🛡️ CERTIFICATIONS
+
+![Tata GenAI](https://img.shields.io/badge/Tata-GenAI%20Data%20Analytics-blue?style=for-the-badge&logo=databricks&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/Tata-Cybersecurity%20IAM-green?style=for-the-badge&logo=hackthebox&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/AI-Machine%20Learning-orange?style=for-the-badge&logo=python&logoColor=white)
 
 <br>
 
@@ -44,10 +52,7 @@
 | Project                | Description                                     |
 | ---------------------- | ----------------------------------------------- |
 | PM2.5 Prediction Model | Machine Learning model for pollution prediction |
-| AI Chatbot             | Custom chatbot using APIs                       |
-| E-commerce Website     | Stationery website project                      |
-| Birthday Website       | Interactive animated website                    |
-| Govt Schemes Chatbot   | LLM-based assistant                             |
+
 
 ---
 
@@ -55,9 +60,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mayanksahu2136&show_icons=true&theme=tokyonight" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mayanksahu2136&theme=tokyonight" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mayanksahu2136&theme=tokyonight" width="48%"/>
 
 </div>
 
@@ -67,19 +71,19 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mayanksahu2136&theme=tokyo-night"/>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mayanksahu2136&theme=tokyo-night" />
 </div>
 
 ---
 
+
 # 🐍 Contribution Snake
 
-<div align="center">
+<p align="center">
 
-<img src="https://raw.githubusercontent.com/mayanksahu2136/mayanksahu2136/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/mayanksahu2136/mayanksahu2136/output/github-contribution-grid-snake-dark.svg" />
 
-</div>
+</p>
 
 ---
 
