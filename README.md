@@ -2,14 +2,14 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/213910842-5a320d6b-e48f-4d41-a901-0e6a357e8dae.gif" width="250"/>
 
-# 🚀 Hi, I'm Mayank Sahu
+# Hi, I'm Mayank Sahu
 
-### 💻 AI Developer | Software Engineer | Problem Solver
+### AI Developer | Software Engineer | Problem Solver
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&width=700&lines=Building+Real+World+Projects;AI+%7C+Machine+Learning+%7C+Web+Development;Cybersecurity+Learner;Always+Learning+New+Things" />
 
 
-🛡️ CERTIFICATIONS
+CERTIFICATIONS
 
 ![Tata GenAI](https://img.shields.io/badge/Tata-GenAI%20Data%20Analytics-blue?style=for-the-badge&logo=databricks&logoColor=white)
 ![Cybersecurity](https://img.shields.io/badge/Tata-Cybersecurity%20IAM-green?style=for-the-badge&logo=hackthebox&logoColor=white)
